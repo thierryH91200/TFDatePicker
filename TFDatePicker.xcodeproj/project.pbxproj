@@ -166,7 +166,7 @@
 			};
 			buildConfigurationList = E2D656DF160A18F000DEC117 /* Build configuration list for PBXProject "TFDatePicker" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
