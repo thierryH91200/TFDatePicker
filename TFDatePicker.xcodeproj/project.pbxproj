@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		03DDB4EE2367024F006AC384 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 03DDB4ED2367024F006AC384 /* Assets.xcassets */; };
 		AB346E22192F5F51006E2AD6 /* prompt.png in Resources */ = {isa = PBXBuildFile; fileRef = AB346E21192F5F51006E2AD6 /* prompt.png */; };
 		AB81C3AE1923961D00CA7A3B /* TFDatePickerCell.h in Headers */ = {isa = PBXBuildFile; fileRef = AB81C3AC1923961D00CA7A3B /* TFDatePickerCell.h */; };
 		AB81C3AF1923961D00CA7A3B /* TFDatePickerCell.m in Sources */ = {isa = PBXBuildFile; fileRef = AB81C3AD1923961D00CA7A3B /* TFDatePickerCell.m */; };
@@ -25,6 +26,7 @@
 		0312818A217C32570069AE7E /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		031CB44A217B1C0900D9DE92 /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		03B31CE5218AC03300BB1DEC /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		03DDB4ED2367024F006AC384 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AB346E21192F5F51006E2AD6 /* prompt.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = prompt.png; sourceTree = "<group>"; };
 		AB81C3AC1923961D00CA7A3B /* TFDatePickerCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TFDatePickerCell.h; sourceTree = "<group>"; };
 		AB81C3AD1923961D00CA7A3B /* TFDatePickerCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TFDatePickerCell.m; sourceTree = "<group>"; };
@@ -96,6 +98,7 @@
 		E2D656EF160A18F100DEC117 /* TFDatePicker */ = {
 			isa = PBXGroup;
 			children = (
+				03DDB4ED2367024F006AC384 /* Assets.xcassets */,
 				E2D65706160A191100DEC117 /* TFDatePicker.h */,
 				E2D65707160A191100DEC117 /* TFDatePicker.m */,
 				AB81C3AC1923961D00CA7A3B /* TFDatePickerCell.h */,
@@ -194,6 +197,7 @@
 				E2D65700160A18FE00DEC117 /* calendar.png in Resources */,
 				AB346E22192F5F51006E2AD6 /* prompt.png in Resources */,
 				E2D65701160A18FE00DEC117 /* calendar@2x.png in Resources */,
+				03DDB4EE2367024F006AC384 /* Assets.xcassets in Resources */,
 				AB81C3B11923AF4600CA7A3B /* TFDatePicker.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
