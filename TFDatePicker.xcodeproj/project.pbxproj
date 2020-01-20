@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		03B92E3F23D61D0700E1652B /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 03B92E3E23D61D0700E1652B /* Info.plist */; };
 		03DDB4EE2367024F006AC384 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 03DDB4ED2367024F006AC384 /* Assets.xcassets */; };
 		AB346E22192F5F51006E2AD6 /* prompt.png in Resources */ = {isa = PBXBuildFile; fileRef = AB346E21192F5F51006E2AD6 /* prompt.png */; };
 		AB81C3AE1923961D00CA7A3B /* TFDatePickerCell.h in Headers */ = {isa = PBXBuildFile; fileRef = AB81C3AC1923961D00CA7A3B /* TFDatePickerCell.h */; };
@@ -26,6 +27,7 @@
 		0312818A217C32570069AE7E /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		031CB44A217B1C0900D9DE92 /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		03B31CE5218AC03300BB1DEC /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		03B92E3E23D61D0700E1652B /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		03DDB4ED2367024F006AC384 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AB346E21192F5F51006E2AD6 /* prompt.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = prompt.png; sourceTree = "<group>"; };
 		AB81C3AC1923961D00CA7A3B /* TFDatePickerCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TFDatePickerCell.h; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				AB81C3AD1923961D00CA7A3B /* TFDatePickerCell.m */,
 				E2D65702160A190600DEC117 /* TFDatePickerPopoverController.h */,
 				E2D65703160A190600DEC117 /* TFDatePickerPopoverController.m */,
+				03B92E3E23D61D0700E1652B /* Info.plist */,
 				E2D656F0160A18F100DEC117 /* Supporting Files */,
 				AB81C3B01923AF4600CA7A3B /* TFDatePicker.xib */,
 			);
@@ -199,6 +202,7 @@
 				E2D65701160A18FE00DEC117 /* calendar@2x.png in Resources */,
 				03DDB4EE2367024F006AC384 /* Assets.xcassets in Resources */,
 				AB81C3B11923AF4600CA7A3B /* TFDatePicker.xib in Resources */,
+				03B92E3F23D61D0700E1652B /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
